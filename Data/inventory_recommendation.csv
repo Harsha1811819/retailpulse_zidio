@@ -1,0 +1,6 @@
+StockCode,CurrentStock,PredictedDemand,ReorderQuantity,Status,SafetyStock,RecommendedOrder
+85123A,30,70,40,Reorder Required,14.0,54
+71053,80,60,0,Sufficient Stock,12.0,0
+84406B,45,55,10,Reorder Required,11.0,21
+84029G,20,40,20,Reorder Required,8.0,28
+22752,100,120,20,Reorder Required,24.0,44
